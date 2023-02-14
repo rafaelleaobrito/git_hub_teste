@@ -6,3 +6,4 @@ capitulo 1
 	este capitulo diz a respeito da introdução
 capitulo 2
 	falando dos integrantes 
+as pessoas são:
